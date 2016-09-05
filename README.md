@@ -1,11 +1,11 @@
 # Python_Learning
-#echo "# Python_Learning" >> README.md
->git init
+##以下是从git提交工程到github的方法
+>1.git init
 <br>
->git add README.md
+>2.git add .
 <br>
->git commit -m "first commit"
+>3.git commit -m "first commit"
 <br>
->git remote add origin https://github.com/Seven13G/Python_Learning.git
+>4.git remote add origin https://github.com/Seven13G/Python_Learning.git
 <br>
->git push -u origin master
+>5.git push -u origin master
